@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene.unity
+    guid: 0d3a4fb9d2c73644d8d032ae693e0bb3
+  - enabled: 1
+    path: Assets/Scenes/HomeworldScene.unity
+    guid: e2bc5eb4ef090d44781822be41730d28
+  - enabled: 1
+    path: Assets/Scenes/StarShipScene.unity
+    guid: 8951ddff52a88684d9eae4f48e10b7c1
+  - enabled: 1
+    path: Assets/Scenes/Planet1Scene.unity
+    guid: 07bda66bfd99bef4aa38300fd4bf3241
+  - enabled: 1
+    path: Assets/Scenes/Planet2Scene.unity
+    guid: 3e18c22742425774b9438a1d0ed11f77
+  - enabled: 1
+    path: Assets/Scenes/Planet3Scene.unity
+    guid: d79663f1f25c9d0489e017a795e854af
+  m_configObjects: {}
