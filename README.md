@@ -7,7 +7,7 @@
 3. Скачиваем [GitHub Desktop](https://desktop.github.com)
 4. Запускаем GitHub Desktop, логинимся
 5. Нажимаем **Clone a repository**, далее вкладку **URL**
-6. Вставляем https://github.com/fvrrrn/unity-platformer-game.git
+6. Вставляем https://github.com/PentakillGhetto/space-cat-thegame.git
 7. Выбираем папку в **Local path**
 8. Нажимаем **Clone**
 ### Настройка
